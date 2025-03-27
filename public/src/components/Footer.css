@@ -1,0 +1,36 @@
+.footer {
+  width: 100%;
+  padding: 20px 0;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.footer-container {
+  width: 90%;
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.footer-text h2 {
+  margin: 0;
+  font-size: 18px;
+  color: gray;
+}
+
+.footer-text p {
+  margin: 5px 0;
+  font-size: 14px;
+  color: gray;
+}
+
+.footer-copy {
+  font-size: 12px;
+  margin-top: 10px;
+}
